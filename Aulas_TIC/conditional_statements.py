@@ -16,7 +16,7 @@ def checkOddEven():
 checkOddEven()
 '''
 
-#Solução 2: Ajustando para receber o número como parâmetro:
+#Solução 2: Ajustando para receber o número como parâmetro :
 
 def checkOddEven(numero):
     if numero % 2 == 0:
